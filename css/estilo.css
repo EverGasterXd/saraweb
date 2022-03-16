@@ -120,10 +120,7 @@ nav li{
   font-size:16px;
   display: inline-block;
 }
-div {
-  background-color: #10051E;
-  opacity: 0.5;
-}
+
 #showcase{
   min-height:400px;
   background:url('../img/Fondo.png') no-repeat;
