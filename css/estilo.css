@@ -127,12 +127,12 @@ div {
 }
 
 #showcase{
-  background-color: #10051E;
-  opacity: 0.5;
   min-height:400px;
   background:url('../img/Fondo.png') no-repeat;
   background-position: center;
   background-size: cover;
+  background-color: #10051E;
+  opacity: 0.5;
   text-align:center;
   color:#10051E;
 }
