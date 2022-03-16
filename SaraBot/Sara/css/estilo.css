@@ -45,6 +45,10 @@ header #branding h1{
   margin:0;
 }
 
+div {
+  background-color: #10051E;
+  opacity: 0,5;
+}
 
 /* Showcase */
 nav a { 
