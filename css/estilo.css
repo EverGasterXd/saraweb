@@ -123,16 +123,18 @@ nav li{
 
 div {
   background-color: #10051E;
-  opacity: 0,5;
+  opacity: 0.5;
 }
 
 #showcase{
+  background-color: #10051E;
+  opacity: 0.5;
   min-height:400px;
   background:url('../img/Fondo.png') no-repeat;
   background-position: center;
   background-size: cover;
   text-align:center;
-  color:#ffffff;
+  color:#10051E;
 }
 
 #showcase h1{
